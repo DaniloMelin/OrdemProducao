@@ -1,5 +1,3 @@
-# Sistema de Gerenciamento de Ordens de Produção para uma Fábrica
-
 ## Sistema de Gerenciamento de Ordens de Produção
 
 Este é um sistema de gerenciamento de ordens de produção em Python que permite aos usuários registrar novas ordens de produção, listar as ordens existentes, atualizar o status de uma ordem e sair do sistema.
