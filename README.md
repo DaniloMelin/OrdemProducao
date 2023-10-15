@@ -1,4 +1,4 @@
-# OrdemProducao
+# Sistema de Gerenciamento de Ordens de Produção para uma Fábrica
 
 ## Sistema de Gerenciamento de Ordens de Produção
 
